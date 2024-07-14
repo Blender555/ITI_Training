@@ -1,0 +1,14 @@
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\bin\Debug\net8.0\lab_5.exe
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\bin\Debug\net8.0\lab_5.deps.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\bin\Debug\net8.0\lab_5.runtimeconfig.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\bin\Debug\net8.0\lab_5.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\bin\Debug\net8.0\lab_5.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.AssemblyInfoInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.AssemblyInfo.cs
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.csproj.CoreCompileInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\refint\lab_5.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\lab_5.genruntimeconfig.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_5\lab_5\obj\Debug\net8.0\ref\lab_5.dll
