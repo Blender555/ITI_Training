@@ -1,0 +1,14 @@
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\bin\Debug\net8.0\lab_6_easy.exe
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\bin\Debug\net8.0\lab_6_easy.deps.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\bin\Debug\net8.0\lab_6_easy.runtimeconfig.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\bin\Debug\net8.0\lab_6_easy.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\bin\Debug\net8.0\lab_6_easy.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.AssemblyInfoInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.AssemblyInfo.cs
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.csproj.CoreCompileInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\refint\lab_6_easy.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\lab_6_easy.genruntimeconfig.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_6_easy\lab_6_easy\obj\Debug\net8.0\ref\lab_6_easy.dll
