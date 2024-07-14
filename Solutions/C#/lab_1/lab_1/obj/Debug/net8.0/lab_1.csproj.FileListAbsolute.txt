@@ -1,0 +1,14 @@
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\bin\Debug\net8.0\lab_1.exe
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\bin\Debug\net8.0\lab_1.deps.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\bin\Debug\net8.0\lab_1.runtimeconfig.json
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\bin\Debug\net8.0\lab_1.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\bin\Debug\net8.0\lab_1.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.AssemblyInfoInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.AssemblyInfo.cs
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.csproj.CoreCompileInputs.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\refint\lab_1.dll
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.pdb
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\lab_1.genruntimeconfig.cache
+D:\Study\ITI_Training\Labs\Solutions\C#\lab_1\lab_1\obj\Debug\net8.0\ref\lab_1.dll
