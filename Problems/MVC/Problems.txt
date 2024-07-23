@@ -1,0 +1,3 @@
+All Solutions in MVC are design and understand Concepts of MVC.
+
+// You should look at designs and functionalities in every Project and do like this.
